@@ -6,14 +6,7 @@ const page = () => {
       <h1 className='text-3xl'>Our Work</h1>
       <h3>What we done for people</h3>
       <br />
-      <div className='flex gap-5'>
 
-      </div>
-      <br />
-
-      <div className='flex gap-5'> 
-
-      </div>
     </div>
   )
 }

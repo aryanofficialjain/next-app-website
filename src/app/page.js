@@ -6,9 +6,6 @@ import Hero_skill from './Components/Hero_skill'
 import Image from 'next/image'
 
 
-<time datetime="2016-10-25" suppressHydrationWarning />
-
-
 
 const page = () => {
   return (
