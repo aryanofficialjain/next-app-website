@@ -9,7 +9,7 @@ const Nav = () => {
         </div>
 
         <div className='flex gap-10 mr-10'>
-            <Link href="http://localhost:3000/">Home</Link>
+            <Link href="/">Home</Link>
             <Link href="/About">About</Link>
             <Link href="/Contact">Contact</Link>
             <Link href="/Team">Team</Link>

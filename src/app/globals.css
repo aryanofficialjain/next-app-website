@@ -19,10 +19,15 @@
   }
 }
 
+::-webkit-scrollbar {
+  width: .2px; /* Width of the scrollbar track */
+}
+
 
 *{
   font-family: 'Ubuntu', sans-serif;
   scroll-behavior: smooth;
+
 
 }
 

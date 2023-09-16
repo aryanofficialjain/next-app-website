@@ -28,7 +28,7 @@ const Page = () => {
       <h3>What weve done for people</h3>
 
       <div className='flex items-center justify-evenly flex-wrap gap-5'>
-        {images.map((image, i=2) => (
+        {images.map((image, i) => (
           <Image key={image.id} src={image.download_url} alt='images' width={400} height={300}/>
         ))}
       </div>
