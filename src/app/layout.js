@@ -1,5 +1,7 @@
 import Nav from './Components/Nav'
 import './globals.css'
+import axios from 'axios';
+
 
 
 
